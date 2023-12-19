@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "First item",
+      "body": "...description...",
+      "img": "https://2ch.hk/hry/src/745033/16817661574300.jpg",
+      "code": "1234123123",
+      "deliever": "ООО ТрансОбщажный сервис"
+    }
+  ],
+  "creatorInfo": {
+    "name": "Седых Максим",
+    "group": "6409",
+    "repo": "https://github.com/maximka9"
+  }
+}

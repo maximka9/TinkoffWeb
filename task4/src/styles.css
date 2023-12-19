@@ -1,0 +1,19 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    background-color: rgb(75, 67, 90);
+}
+.info-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.info_items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 45%;
+}
