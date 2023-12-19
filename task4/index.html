@@ -10,6 +10,11 @@
 
 </head>
 <body>
+    <div class='spinner' style="position: fixed; justify-content: center; display: none; align-items: center; width: 100%; height: 100%; z-index: 1;">
+        <div class="spinner-border" role="status">
+          <span class="visually-hidden">Loading...</span>
+        </div>
+      </div>
     <div class="header">
         <div>
             <h3 style="color:aquamarine">6409 Седых Максим</h3>
@@ -33,8 +38,8 @@
                     <input type="text" class="form-control" id="img">
                 </div>
                 <div class="mb-3">
-                    <label for="id" class="form-label">Код товара</label>
-                    <input type="text" class="form-control" id="id">
+                    <label for="code" class="form-label">Код товара</label>
+                    <input type="text" class="form-control" id="code">
                 </div>
                 <div class="mb-3">
                     <label for="deliever" class="form-label">Поставщик</label>
